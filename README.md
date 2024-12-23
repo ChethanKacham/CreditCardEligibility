@@ -42,7 +42,7 @@ To set up and run the application, ensure that the following software is install
    - Copy the generated WAR file (located in the target directory) to the webapps folder of your Tomcat server.
    - Example: 
      ```bash
-	 Copy the generated WAR file (located in the target directory) to the webapps folder of your Tomcat server.
+	 cp target/CreditCardEligibility.war /path/to/tomcat/webapps/
 
 5. **Start the Tomcat server**  Navigate to your Tomcat installation directory and start the server:
    ```bash
